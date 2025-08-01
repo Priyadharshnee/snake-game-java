@@ -1,10 +1,10 @@
-<img width="732" height="732" alt="image" src="https://github.com/user-attachments/assets/7ee5e875-01b5-4907-a61f-7cd6a5aa2023" /><img width="736" height="747" alt="image" src="https://github.com/user-attachments/assets/f6fb9403-6ef9-4cb9-893a-33ce89632865" />
-
-
-
 🐍 Snake Game with Obstacles
 Welcome to my very first Java project — a simple, fun Snake game built entirely using Core Java and Swing! 
 🎉 I created this project during my first year of B.Tech, and it helped me understand the fundamentals of GUI programming, game loops, event handling, and collision detection.
+
+
+<img width="732" height="732" alt="image" src="https://github.com/user-attachments/assets/7ee5e875-01b5-4907-a61f-7cd6a5aa2023" /><img width="736" height="747" alt="image" src="https://github.com/user-attachments/assets/f6fb9403-6ef9-4cb9-893a-33ce89632865" />
+
 
 🎮 Game Features
 🟢 Smooth snake movement with arrow key controls
