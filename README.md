@@ -1,4 +1,5 @@
-🐍 Snake Game with Obstacles
+<br>🐍 Snake Game with Obstacles<br>
+
 Welcome to my very first Java project — a simple, fun Snake game built entirely using Core Java and Swing! 
 🎉 I created this project during my first year of B.Tech, and it helped me understand the fundamentals of GUI programming, game loops, event handling, and collision detection.
 
